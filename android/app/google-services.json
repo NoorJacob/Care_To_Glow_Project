@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "861172355215",
+    "project_id": "glow-guide-50e69",
+    "storage_bucket": "glow-guide-50e69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861172355215:android:c6df0e949f673f3da220fa",
+        "android_client_info": {
+          "package_name": "com.example.glow_guide_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGCYoIs8sHD22VoPwiUAS53AzdPzMJWIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
